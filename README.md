@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m working on gamedev company
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: anklav24@gmail.com, [telegram](https://t.me/Anklav24), [LinkedIn](https://www.linkedin.com/in/aleksandr-lobanov-30017b1ab/)
+- 📫 How to reach me: anklav24@gmail.com, [Telegram](https://t.me/Anklav24), [LinkedIn](https://www.linkedin.com/in/aleksandr-lobanov-30017b1ab/)
 - ⚡ Fun fact: I play in a punk rock band
