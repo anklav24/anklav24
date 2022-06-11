@@ -4,7 +4,7 @@
 https://www.profileme.dev/
 -->
 
-Hi there 👋 I'm Alexander Lobanov.
+Hi there 👋 I'm Aleksandr Lobanov.
 ==========================
 
 Python Developer
